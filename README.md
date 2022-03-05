@@ -4,17 +4,15 @@ This project aims to help/guide beginners to make their first pull request.
 
 ---
 
-## Ways to create a Pull Request
-
-### Using Command Line
+## Using Command Line
 
 If you don't have git on your machine, [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-#### 1. Fork this repository
+### 1. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
-#### 2. Clone the repository
+### 2. Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 
@@ -34,7 +32,7 @@ git clone https://github.com/<your_username>/first-pull-request.git
 
 where `<your_username>` is your GitHub username. Here you're copying the contents of the `first-pull-request` repository on GitHub to your computer.
 
-#### 3. Create a branch
+### 3. Create a branch
 
 Change to the repository directory on your computer (if you are not already there) :
 
@@ -56,7 +54,7 @@ git checkout -b add-harshraj8843
 
 (The name of the branch does not need to have the word add in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a folder.)
 
-#### 4. Make necessary changes and commit those changes
+### 4. Make necessary changes and commit those changes
 
 Now create a file `<your_username>.json` inside `contributors` folder.
 
@@ -98,9 +96,9 @@ git commit -m "add <your_username>"
 
 replacing `<your_username>` with your Github username.
 
-#### 5. Push changes to GitHub
+### 5. Push changes to GitHub
 
-Push your changes using the command git push:
+Push your changes using the command `git push`:
 
 ```bash
 git push origin <add-your-branch-name>
@@ -108,10 +106,24 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-#### 6. Submit your changes for review
+### 6. Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 Now submit the pull request.
 
 Soon your pull request will be reviewed and merged into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard `fork` -> `clone` -> `edit` -> `push` -> `pull request` workflow that you'll encounter often as a contributor!
+
+Celebrate your contribution and share it with your friends and followers.
+
+You could contribute to [our other open source projects](https://github.com/orgs/codinasion/repositories)
+
+You could also become a member of our organization. [Join Us](https://github.com/codinasion/codinasion-invite/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+
+---
+
+If you wanna become a reviewer of this repository, please mail us at `codinasion@gmail.com`.
