@@ -126,4 +126,6 @@ You could also become a member of our organization. [Join Us](https://github.com
 
 ---
 
-If you wanna become a reviewer of this repository, please mail us at `codinasion@gmail.com`.
+## Thanks :purple_heart:
+
+Thanks for all your contributions and efforts. We thank you being part of our :sparkles: community :sparkles: !
