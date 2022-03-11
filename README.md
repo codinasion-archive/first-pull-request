@@ -124,8 +124,6 @@ You could contribute to [our other open source projects](https://github.com/orgs
 
 You could also become a member of our organization. [Join Us](https://github.com/codinasion/codinasion-invite/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
----
-
 ## Thanks :purple_heart:
 
 Thanks for all your contributions and efforts. We thank you being part of our :sparkles: community :sparkles: !
