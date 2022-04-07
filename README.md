@@ -4,6 +4,52 @@ This project aims to help/guide beginners to make their first pull request.
 
 ---
 
+<details>
+<summary>If you already have experince with PRs</summary>
+
+  <br/>
+  
+  1. Fork this repo
+  2. Clone repo
+  
+  ```
+  git clone https://github.com/your_username/first-pull-request.git
+  ```
+  
+  3. Create a new branch
+  
+  ```
+  git checkout -b new-branch-name
+  ```
+  
+  4. Create a file `your_username.json` inside `contributors` folder with data
+  
+  ```json
+    {
+      "name": "your_name"
+    }
+  ```
+  
+  5. Commit your changes and push
+  
+  ```
+  git add your_username.json
+  ```
+  
+  ```
+  git commit -m "add your_username"
+  ```
+  
+  ```
+  git push origin your-created-branch-name
+  ```
+  
+  6. Create a Pull Request
+
+</details>
+
+---
+
 ## Using Command Line
 
 If you don't have git on your machine, [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
